@@ -1,4 +1,4 @@
-# k6 in GitHub Actions: fail slow pull requests
+# k6 in GitHub Actions: fail slow pull requets
 
 Companion code for the video **"How Do You Run k6 in GitHub Actions and Fail Slow Pull Requests?"** on [@buildwithamaobi](https://www.youtube.com/@buildwithamaobi).
 
